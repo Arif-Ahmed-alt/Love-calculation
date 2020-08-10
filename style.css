@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body{
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    font-weight: 400;
+} */
+
+h1{
+    color: #ff4136;
+    font-size: 2.1875rem;
+    margin-top: 1.5rem 
+
+}
+.btn{
+    font-weight: 600;
+}
+.card{
+    background-color: #ff851b;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    font-weight: 400;
+    color: #fff;
+}
+.why{
+    font-weight: 700;
+    color:#ff851b
+}
+.love{
+    font-size: 20px;
+    color: red;
+}
+.name{
+    font-weight: 700;
+}
+.host{
+    font-weight: 700;
+}
+.footer p{
+    font-size: 14px;
+    font-weight: 600;
+}
